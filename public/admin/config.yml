@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: PurplePurplePurplePurple/byggekirke
+  repo: PurplePurplePurplepurple/byggekirke
   branch: main
 
 media_folder: "public/uploads"
